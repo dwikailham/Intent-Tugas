@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent Latihan</string>
+    <string name="editText_nama">nama</string>
+    <string name="alamat">alamat</string>
+    <string name="no_hp">no hp</string>
+    <string name="button_register">Register</string>
+    <string name="main2activity">Secondary Activity</string>
+    <string name="button_share">Share</string>
+    <string name="textView_alamat">Alamat</string>
+    <string name="textView_nama">Nama</string>
+</resources>
